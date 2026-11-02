@@ -13,7 +13,7 @@ Script em Batch que mostra, direto no terminal, o nome e a senha do Wi-Fi ao qua
 
 ## Exemplo de saída
 
-![Exemplo de saída](exemplo.png)
+<img width="520" height="250" alt="Image" src="https://github.com/user-attachments/assets/1fe8b580-b0f5-4ecd-b0e5-f9c67f08fb3a" />
 
 O nome da rede e a senha mudam conforme a rede conectada.
 
@@ -33,6 +33,8 @@ Se não encontrar senha (rede aberta, por exemplo), mostra `Nao encontrada`.
 ## Como usar
 
 Requisitos: Windows com adaptador Wi-Fi, conectado a uma rede.
+
+Se já tiver o git instalado...
 
 ```
 git clone https://github.com/Herzz09/Info-Senha-wifi.git
