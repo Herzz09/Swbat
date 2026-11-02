@@ -52,7 +52,7 @@ Depois, dê um duplo clique em `Senha-wifi.bat`.
 
 - [ ] Listar a senha de todas as redes salvas.
 - [ ] Opção de copiar a senha para a área de transferência.
-- [ ] Adicionar a licença MIT ao repositório.
+- [X] Adicionar a licença MIT ao repositório.
 
 ## Licença
 
